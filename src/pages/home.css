@@ -1,0 +1,24 @@
+
+
+.home-img {
+    height: 650px;
+    width: 100%;
+}
+.home-context {
+    position: relative;
+    bottom: 200px;
+    text-transform: uppercase;
+}
+.home-subtitle {
+    position: relative;
+    bottom: 190px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.home-btn {
+    position: relative;
+    bottom: 190px;
+    text-transform: uppercase;
+    background-color: white;
+    color: rgba(5, 5, 243, 0.781);
+}

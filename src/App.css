@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.about-bg {
+  background-image: url(image1.jpg);
+  object-fit: cover;
+  height: 100%;
+  color: rgb(231, 219, 219);
+  filter: opacity(0.7);
+ }
+ .about-content {
+  color: hsl(0, 17%, 95%);
+  font-size: 20px;
+  margin-left: 70px;
+ }
+ .about-content > h2, .about-content > h3{
+  text-transform: uppercase;
+ }
+ .btn-join{
+  position: absolute;
+  top:20px;
+  left: 70%;
+  font-size: 30px;
+ background-color: black;
+ color: white;
+ }
+ .btn-join:hover {
+ transition: ease-in;
+ background-color: red;
+ }
+ .signal {
+  font-size: 50px;
+ margin-left: 250px;
+  
+ }
+ .signal-head{ 
+  margin-left: 160px;
+  padding: 25px;
+ }
+.signal-content {
+    margin-left: 100px;
+    
+}
+.btn-learn{
+  margin-left: 220px;
+  padding: 5px 20px;
+}
+.btn-learn:hover {
+  background-color: black;
+}
