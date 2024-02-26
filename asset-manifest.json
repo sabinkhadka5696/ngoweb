@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ngoweb/static/css/main.36638fbe.css",
+    "main.js": "/ngoweb/static/js/main.f58cd461.js",
+    "static/js/787.05a6a7a0.chunk.js": "/ngoweb/static/js/787.05a6a7a0.chunk.js",
+    "static/media/image1.jpg": "/ngoweb/static/media/image1.af5a740d03e67fc1d75d.jpg",
+    "static/media/slick.svg": "/ngoweb/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ngoweb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ngoweb/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ngoweb/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ngoweb/index.html",
+    "main.36638fbe.css.map": "/ngoweb/static/css/main.36638fbe.css.map",
+    "main.f58cd461.js.map": "/ngoweb/static/js/main.f58cd461.js.map",
+    "787.05a6a7a0.chunk.js.map": "/ngoweb/static/js/787.05a6a7a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36638fbe.css",
+    "static/js/main.f58cd461.js"
+  ]
+}
